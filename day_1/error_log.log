@@ -1,0 +1,4 @@
+3:2024-07-22 09:00:30 ERROR Database connection failed: Connection refused. (Service: MySQL)
+6:2024-07-22 09:01:45 ERROR API call to external_service failed with 403 Forbidden.
+3:2024-07-22 09:00:30 ERROR Database connection failed: Connection refused. (Service: MySQL)
+6:2024-07-22 09:01:45 ERROR API call to external_service failed with 403 Forbidden.
