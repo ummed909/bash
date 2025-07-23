@@ -210,5 +210,5 @@ main
 if [ -f "logs.txt" ]; then
     cat "logs.txt"
 else
-    echo "Something went wrong : No log file exist"
+    echo "Something went wrong : No log file exist."
 fi
