@@ -1,0 +1,131 @@
+CRITICAL Resource GPU not available gr? : 2025-05-14
+DEBUG Temporary failure in name resolution |X : 2023-12-02
+CRITICAL Disk space is critically low on /dev/nvme0n1  : 2025-03-26
+CRITICAL service crashed unexpectedly with code 376 ?+ : 2024-01-04
+fatal API key expired for user JaneDoe ~RFE : 2024-11-04
+DEBUG Configuration file not found: /opt/app/settings.json  : 2025-03-24
+DEBUG service crashed unexpectedly with code 441 F : 2023-06-03
+notice Database connection established after 940ms NBL : 2025-04-10
+ERROR User user1 failed to authenticate from IP 226.41.31.241  : 2023-04-29
+notice Resource Network not available MLr : 2024-03-13
+fatal Configuration file not found: /home/user/.env &L : 2024-09-04
+ERROR API key expired for user apiUser o$ : 2023-01-08
+CRITICAL Temporary failure in name resolution O : 2025-03-11
+INFO Disk space is critically low on /mnt/data NcF>i : 2023-04-04
+INFO Unable to resolve DNS for api.service.io \ : 2023-03-13
+ERROR Unable to resolve DNS for api.service.io BPShm : 2024-09-09
+fatal Disk space is critically low on /dev/sda1 "-x : 2024-12-19
+Alert API key expired for user guest % : 2025-01-14
+ERROR Disk space is critically low on /dev/nvme0n1  : 2024-02-16
+Alert service crashed unexpectedly with code 468 'y : 2024-01-20
+ERROR Unable to resolve DNS for example.com Vy*QH : 2025-02-03
+INFO Resource RAM not available _> : 2023-03-09
+INFO service crashed unexpectedly with code 262 IMtX_ : 2023-07-11
+Alert Temporary failure in name resolution Q?k : 2023-05-02
+DEBUG Database connection timeout after 269ms * : 2025-07-04
+CRITICAL Unable to resolve DNS for example.com !Oy)| : 2024-02-24
+notice Service mode switched to isolated Q : 2024-12-14
+DEBUG Service mode switched to isolated @%]Aq : 2023-04-14
+DEBUG Unable to resolve DNS for example.com  : 2023-06-08
+CRITICAL User apiUser failed to authenticate from IP 144.49.202.84 TwnI : 2025-05-11
+INFO Database connection established after 156ms D : 2023-03-03
+CRITICAL API key expired for user admin Rj : 2024-12-28
+Alert service crashed unexpectedly with code 395 c : 2024-06-29
+ERROR Disk space is critically low on /dev/nvme0n1 P. : 2024-12-05
+Alert service crashed unexpectedly with code 189 LY : 2023-01-15
+notice Temporary failure in name resolution |dL : 2023-09-29
+DEBUG service crashed unexpectedly with code 595  : 2024-08-25
+WARNING User user1 failed to authenticate from IP 230.54.209.162 J` : 2023-04-09
+Alert Configuration file not found: /opt/app/settings.json o : 2025-07-22
+INFO Disk space is critically low on /mnt/data IA=D : 2025-04-10
+WARNING Service mode switched to production qF : 2023-09-02
+WARNING User apiUser failed to authenticate from IP 56.244.90.196  : 2024-09-06
+ERROR API key expired for user user1 (sQNw : 2023-07-08
+CRITICAL Server started successfully at port 8797 /X#k= : 2024-01-25
+fatal Disk space is critically low on /dev/sda1 k : 2023-07-24
+INFO API key expired for user root zp : 2025-06-03
+DEBUG API key expired for user JaneDoe  : 2023-08-28
+DEBUG Database connection refused after 351ms ox : 2023-12-18
+WARNING service crashed unexpectedly with code 562 >fRs` : 2023-12-25
+DEBUG Disk space is critically low on / Z : 2023-03-29
+ERROR Resource RAM not available >k : 2024-02-01
+WARNING API key expired for user admin O<+ : 2023-11-23
+ERROR API key expired for user john_doe b/Wd= : 2023-04-12
+WARNING Temporary failure in name resolution :~%@ : 2023-06-05
+CRITICAL User root failed to authenticate from IP 116.161.224.48 MB>q : 2023-07-04
+INFO Database connection refused after 374ms ,;kp : 2025-05-06
+notice service crashed unexpectedly with code 237 RC~ : 2024-04-02
+WARNING Disk space is critically low on /dev/sda1 Y`D| : 2023-06-25
+Alert Configuration file not found: /opt/app/settings.json L-m : 2024-07-08
+INFO Service mode switched to production J-e-J : 2025-04-19
+Alert User john_doe failed to authenticate from IP 169.130.46.132 *[ : 2025-01-15
+DEBUG API key expired for user apiUser >JJnl : 2024-12-25
+Alert Temporary failure in name resolution ncx* : 2024-01-17
+fatal Temporary failure in name resolution , : 2024-09-05
+DEBUG Disk space is critically low on /dev/sda1  : 2023-04-02
+fatal Configuration file not found: /opt/app/settings.json rRRS : 2023-11-11
+INFO service crashed unexpectedly with code 179 Y"" : 2024-08-07
+DEBUG Configuration file not found: /home/user/.env J&( : 2023-08-14
+Alert Configuration file not found: /etc/config.yaml %< : 2023-01-05
+ERROR User user1 failed to authenticate from IP 14.111.30.125  : 2024-05-05
+CRITICAL service crashed unexpectedly with code 554 G}ov : 2025-05-05
+DEBUG Server started successfully at port 8248  : 2023-08-01
+INFO Temporary failure in name resolution  : 2024-03-17
+notice Server started successfully at port 8232 kcIDh : 2024-04-10
+INFO Server started successfully at port 8814 )/; : 2023-03-10
+CRITICAL Configuration file not found: /etc/config.yaml &T" : 2025-06-28
+INFO Service mode switched to production R : 2024-01-28
+notice Temporary failure in name resolution OH : 2023-03-07
+WARNING Server started successfully at port 8708 'uUnU : 2023-05-14
+fatal Server started successfully at port 8370 j!D&v : 2025-07-13
+ERROR Unable to resolve DNS for internal.local uDNo : 2024-07-08
+ERROR Server started successfully at port 8279 # : 2025-05-25
+ERROR Unable to resolve DNS for api.service.io  : 2024-01-11
+CRITICAL API key expired for user apiUser  : 2023-05-06
+notice Configuration file not found: /home/user/.env ,FPE : 2023-11-16
+ERROR Disk space is critically low on /dev/sda1 t/Ha : 2024-02-08
+Alert User john_doe failed to authenticate from IP 65.115.151.254 uWU : 2024-09-18
+CRITICAL Database connection established after 387ms &;{ : 2025-07-22
+CRITICAL User user1 failed to authenticate from IP 207.240.132.96 DQcXA : 2024-04-05
+WARNING Server started successfully at port 8918 ? : 2023-09-15
+fatal Configuration file not found: /home/user/.env tH=< : 2024-10-08
+WARNING Database connection established after 640ms y$ : 2024-02-28
+fatal Service mode switched to safe X@pD : 2024-05-18
+notice Disk space is critically low on /dev/nvme0n1 g+@ : 2024-06-19
+Alert Temporary failure in name resolution @-+ : 2025-05-13
+ERROR Service mode switched to production d} : 2025-05-15
+fatal Disk space is critically low on /dev/nvme0n1 {{`mY : 2024-03-01
+ERROR service crashed unexpectedly with code 136 } : 2024-04-17
+CRITICAL Server started successfully at port 8166 Cs : 2023-05-08
+CRITICAL Disk space is critically low on /dev/nvme0n1 K}~' : 2023-02-09
+fatal Service mode switched to isolated %uu : 2023-11-01
+WARNING API key expired for user admin x : 2025-03-25
+notice Server started successfully at port 8699 z : 2023-02-15
+INFO User user1 failed to authenticate from IP 209.103.163.132 <hXl: : 2025-04-24
+CRITICAL Resource Network not available Sw : 2024-11-13
+CRITICAL Server started successfully at port 8808 X|iW : 2023-01-22
+notice Service mode switched to safe j : 2023-07-25
+CRITICAL Unable to resolve DNS for example.com A,tS : 2023-06-30
+CRITICAL Unable to resolve DNS for internal.local ~& : 2023-12-22
+DEBUG User guest failed to authenticate from IP 133.225.52.94 R^ : 2024-12-09
+CRITICAL Disk space is critically low on /dev/sda1 LoaC$ : 2024-10-06
+fatal Resource Network not available / : 2024-03-15
+INFO Database connection timeout after 890ms pFvu : 2025-03-20
+Alert Resource GPU not available b : 2024-02-24
+CRITICAL Unable to resolve DNS for api.service.io ydMP : 2023-12-13
+fatal User guest failed to authenticate from IP 22.156.141.149 d : 2023-12-22
+Alert User john_doe failed to authenticate from IP 136.198.149.84 -zB,O : 2024-04-25
+WARNING API key expired for user apiUser l;HN : 2025-06-23
+Alert service crashed unexpectedly with code 347 ~\O : 2025-07-07
+Alert Database connection refused after 979ms \,r : 2025-04-30
+CRITICAL User admin failed to authenticate from IP 182.115.160.81 Zqw : 2024-09-09
+Alert service crashed unexpectedly with code 414 HpB) : 2024-04-30
+notice service crashed unexpectedly with code 489 ;#~ : 2025-01-29
+ERROR Database connection timeout after 910ms  : 2025-03-28
+fatal Disk space is critically low on /dev/sda1 nIP : 2025-06-07
+CRITICAL Resource GPU not available _cHVp : 2025-05-05
+WARNING User user1 failed to authenticate from IP 121.96.230.190 ^%y#% : 2023-04-13
+DEBUG Disk space is critically low on /mnt/data |? : 2025-06-01
+Alert Resource RAM not available r : 2023-01-13
+fatal Temporary failure in name resolution tG#ZD : 2025-07-15
+INFO Configuration file not found: /home/user/.env j : 2024-03-02

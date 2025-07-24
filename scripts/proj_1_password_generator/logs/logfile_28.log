@@ -1,0 +1,127 @@
+fatal Disk space is critically low on /  : 2023-12-08
+WARNING service crashed unexpectedly with code 421 CVs : 2025-03-15
+INFO Disk space is critically low on /mnt/data C<VO : 2025-07-06
+Alert Temporary failure in name resolution R,s% : 2023-08-25
+CRITICAL Resource RAM not available BQWJ : 2023-03-19
+WARNING Temporary failure in name resolution / : 2024-06-11
+DEBUG Temporary failure in name resolution vdz: : 2023-08-25
+WARNING Unable to resolve DNS for example.com  : 2024-04-13
+Alert Database connection established after 69ms aD} : 2023-03-16
+DEBUG Configuration file not found: /home/user/.env +=J-u : 2024-11-15
+DEBUG Temporary failure in name resolution Lf: : 2024-02-22
+INFO User JaneDoe failed to authenticate from IP 138.154.217.197 u~F?p : 2024-09-16
+DEBUG Temporary failure in name resolution .%H : 2023-08-21
+notice Disk space is critically low on /dev/nvme0n1 l-& : 2024-12-02
+ERROR Configuration file not found: /etc/config.yaml < : 2025-05-28
+fatal Resource Network not available ] : 2023-06-05
+WARNING Service mode switched to safe G]FV] : 2024-10-08
+notice Disk space is critically low on / q : 2023-11-06
+notice User JaneDoe failed to authenticate from IP 242.229.51.139 @C : 2023-07-11
+fatal Server started successfully at port 8304 K : 2023-11-18
+CRITICAL Disk space is critically low on / K : 2023-04-13
+ERROR Service mode switched to safe f,} : 2024-05-09
+ERROR Database connection timeout after 533ms ~rg : 2024-09-10
+CRITICAL Unable to resolve DNS for example.com S : 2024-03-17
+fatal Configuration file not found: /etc/config.yaml s : 2023-07-17
+WARNING Disk space is critically low on /dev/nvme0n1 '" : 2025-04-26
+notice Server started successfully at port 8359 V : 2023-11-14
+WARNING Unable to resolve DNS for internal.local bw : 2023-12-25
+notice Service mode switched to production | : 2023-09-15
+DEBUG Database connection timeout after 846ms vEUS : 2023-01-11
+INFO Server started successfully at port 8085 - : 2024-04-20
+WARNING service crashed unexpectedly with code 336 h[z : 2024-01-04
+Alert Database connection timeout after 972ms # : 2023-11-21
+fatal Disk space is critically low on /mnt/data tB-+l : 2023-07-30
+CRITICAL Database connection refused after 864ms p-V+L : 2025-05-31
+CRITICAL Service mode switched to safe # : 2024-06-24
+WARNING Database connection established after 173ms nu{X : 2025-06-21
+WARNING Unable to resolve DNS for api.service.io  : 2024-04-12
+WARNING service crashed unexpectedly with code 372 Nn : 2025-06-09
+notice API key expired for user admin F : 2025-05-06
+INFO Configuration file not found: /home/user/.env ,B : 2023-08-10
+WARNING Service mode switched to production  : 2024-10-03
+DEBUG Database connection refused after 877ms pcY}P : 2025-02-02
+notice Unable to resolve DNS for internal.local ,nD`~ : 2023-10-22
+INFO Configuration file not found: /opt/app/settings.json y&Q : 2024-05-30
+Alert Configuration file not found: /home/user/.env  : 2023-11-14
+ERROR Service mode switched to safe &Vmn : 2023-02-10
+INFO API key expired for user admin uw+C< : 2023-03-01
+INFO Configuration file not found: /home/user/.env xw : 2025-04-03
+CRITICAL Unable to resolve DNS for internal.local :Lml : 2024-06-24
+Alert Server started successfully at port 8625 %XcH : 2024-05-23
+notice Service mode switched to safe K(ilB : 2023-08-06
+INFO Service mode switched to isolated 'g : 2025-02-04
+Alert API key expired for user root " : 2023-10-19
+INFO Disk space is critically low on /mnt/data  : 2024-12-17
+fatal API key expired for user JaneDoe + : 2024-09-11
+Alert Disk space is critically low on / MLLxt : 2024-03-03
+Alert User admin failed to authenticate from IP 125.134.88.20  : 2024-03-11
+Alert Temporary failure in name resolution P : 2023-01-26
+INFO User root failed to authenticate from IP 139.241.76.120 " : 2024-05-01
+Alert Configuration file not found: /opt/app/settings.json g:~s? : 2023-05-28
+WARNING Database connection refused after 829ms oh#{< : 2023-08-23
+INFO User JaneDoe failed to authenticate from IP 252.52.123.149 U?+ : 2023-09-01
+INFO Resource RAM not available W;g : 2024-02-10
+notice Temporary failure in name resolution n : 2024-07-23
+WARNING Disk space is critically low on / @.% : 2025-05-27
+INFO Temporary failure in name resolution ~" : 2024-05-31
+DEBUG Resource Network not available ?i : 2024-07-02
+INFO service crashed unexpectedly with code 493 TwUI' : 2025-01-07
+WARNING API key expired for user apiUser Gv#Ai : 2024-03-28
+INFO Service mode switched to isolated z> : 2023-10-18
+ERROR User admin failed to authenticate from IP 30.224.0.104 cWwfy : 2023-09-03
+Alert Unable to resolve DNS for internal.local  : 2023-08-12
+notice Disk space is critically low on /dev/sda1 a?. : 2023-04-06
+ERROR Resource CPU not available C : 2023-10-08
+ERROR Unable to resolve DNS for api.service.io D> : 2024-11-15
+Alert User root failed to authenticate from IP 139.234.3.146 U : 2024-04-25
+WARNING Disk space is critically low on /mnt/data M<h?~ : 2023-11-17
+INFO Service mode switched to safe  : 2024-05-28
+DEBUG Server started successfully at port 8573 M,.GP : 2025-03-05
+fatal User admin failed to authenticate from IP 85.136.215.103 mPj+p : 2024-11-11
+INFO Unable to resolve DNS for api.service.io  : 2023-12-18
+fatal Resource RAM not available jgwm : 2025-02-10
+notice Resource GPU not available wvbi : 2023-12-27
+notice service crashed unexpectedly with code 417 q~oK : 2023-05-17
+ERROR Disk space is critically low on /dev/sda1 [ : 2024-11-10
+CRITICAL Disk space is critically low on / p~h@i : 2023-05-24
+ERROR Database connection timeout after 515ms U>J;V : 2025-05-06
+WARNING Unable to resolve DNS for api.service.io aP}r@ : 2024-03-26
+notice service crashed unexpectedly with code 464 !C<] : 2023-05-02
+notice API key expired for user guest ~@. : 2023-06-24
+notice API key expired for user john_doe p : 2024-09-12
+DEBUG User admin failed to authenticate from IP 212.195.46.145 [T : 2023-12-25
+INFO Temporary failure in name resolution }!oBd : 2024-04-26
+DEBUG Disk space is critically low on /dev/sda1 S : 2023-11-10
+WARNING service crashed unexpectedly with code 296 (+ : 2025-04-29
+Alert Database connection timeout after 344ms Gy|m : 2023-12-14
+INFO Unable to resolve DNS for api.service.io }[ : 2024-12-11
+CRITICAL Server started successfully at port 8983 GH{pP : 2024-03-08
+WARNING Configuration file not found: /home/user/.env :u}o : 2023-05-31
+DEBUG Configuration file not found: /etc/config.yaml PWR : 2023-10-25
+Alert Temporary failure in name resolution r,{o : 2025-01-15
+CRITICAL Configuration file not found: /var/log/syslog \}G : 2023-05-18
+Alert Temporary failure in name resolution +.o-U : 2025-03-03
+notice Temporary failure in name resolution !Ji : 2024-03-10
+INFO Disk space is critically low on / \*Sq : 2023-11-06
+Alert Disk space is critically low on / G#f/ : 2025-03-31
+INFO Database connection refused after 294ms ='P?T : 2023-12-02
+notice Unable to resolve DNS for api.service.io *Rc-c : 2024-06-23
+fatal Service mode switched to safe ^P : 2024-08-10
+INFO Temporary failure in name resolution $k : 2025-01-23
+CRITICAL Configuration file not found: /home/user/.env ?X : 2025-01-03
+Alert User root failed to authenticate from IP 64.210.25.168 S : 2023-06-03
+notice Database connection refused after 840ms *&sOa : 2023-01-05
+ERROR Database connection refused after 559ms =th, : 2024-12-01
+Alert Service mode switched to safe Em@F : 2024-07-22
+INFO User root failed to authenticate from IP 79.189.106.81 tFF : 2023-01-27
+notice Database connection established after 336ms G : 2025-04-18
+Alert Server started successfully at port 8252 q<v%r : 2025-03-02
+INFO Database connection refused after 487ms RTnS : 2023-05-22
+Alert Database connection refused after 130ms |Pg : 2024-10-27
+DEBUG Unable to resolve DNS for internal.local C\ : 2025-02-19
+notice Temporary failure in name resolution _}G[j : 2023-10-22
+Alert Database connection timeout after 209ms Za]/J : 2023-12-31
+DEBUG Temporary failure in name resolution G, : 2025-07-23
+ERROR Configuration file not found: /home/user/.env + : 2024-02-06
+INFO Unable to resolve DNS for example.com  : 2024-09-17

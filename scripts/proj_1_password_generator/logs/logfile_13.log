@@ -1,0 +1,129 @@
+ERROR Resource RAM not available Of : 2023-08-28
+notice User JaneDoe failed to authenticate from IP 23.44.14.127 w?R~ : 2025-06-23
+Alert API key expired for user apiUser  : 2024-12-06
+ERROR Service mode switched to isolated GE : 2025-01-17
+fatal Configuration file not found: /var/log/syslog h\",f : 2024-02-06
+INFO Unable to resolve DNS for internal.local yG>nZ : 2023-04-06
+CRITICAL User guest failed to authenticate from IP 120.150.127.103 >C=Ax : 2024-10-24
+WARNING Resource CPU not available SV?IV : 2023-10-03
+fatal Database connection refused after 792ms fO-l+ : 2023-02-26
+WARNING Resource CPU not available :RGA : 2023-02-25
+ERROR User user1 failed to authenticate from IP 187.19.157.116 =/qh : 2024-08-08
+fatal Unable to resolve DNS for internal.local W)k)* : 2025-06-10
+DEBUG Server started successfully at port 8395 }cb : 2023-01-28
+WARNING Unable to resolve DNS for example.com  : 2025-07-04
+ERROR Service mode switched to safe  : 2023-06-12
+DEBUG Database connection established after 256ms ` : 2024-07-28
+CRITICAL Disk space is critically low on /dev/nvme0n1  : 2023-10-27
+fatal User admin failed to authenticate from IP 163.226.142.82  : 2025-06-17
+notice User user1 failed to authenticate from IP 2.8.123.28  : 2024-01-26
+Alert Temporary failure in name resolution ~"^D : 2025-01-20
+ERROR Service mode switched to safe / : 2023-07-30
+Alert service crashed unexpectedly with code 409 ibon : 2024-05-29
+DEBUG API key expired for user JaneDoe U : 2025-01-06
+INFO Disk space is critically low on / Bcn : 2024-01-09
+CRITICAL User root failed to authenticate from IP 44.55.128.45 $]Dd : 2023-11-14
+Alert Database connection established after 944ms " : 2023-02-24
+DEBUG Service mode switched to isolated  : 2023-02-26
+CRITICAL Disk space is critically low on / y'Me : 2024-03-03
+WARNING Server started successfully at port 8127 a/SM) : 2023-12-23
+fatal Service mode switched to isolated t}bq$ : 2023-09-19
+WARNING Configuration file not found: /var/log/syslog Pjv;t : 2025-06-04
+Alert API key expired for user john_doe  : 2025-04-15
+Alert User user1 failed to authenticate from IP 88.34.41.158 |qY : 2024-09-09
+DEBUG API key expired for user guest m* : 2025-02-16
+Alert service crashed unexpectedly with code 444 >Yf*t : 2025-06-18
+ERROR User JaneDoe failed to authenticate from IP 29.90.11.40 a : 2024-04-03
+ERROR service crashed unexpectedly with code 586 w_(D : 2023-01-31
+Alert Temporary failure in name resolution =A : 2024-11-05
+CRITICAL Temporary failure in name resolution  : 2025-02-16
+ERROR API key expired for user root P : 2024-10-22
+DEBUG User root failed to authenticate from IP 63.253.16.135 Eb : 2025-02-10
+fatal Resource Network not available [C_ : 2024-09-02
+Alert User JaneDoe failed to authenticate from IP 238.221.143.42 )c : 2024-10-19
+WARNING Disk space is critically low on /dev/nvme0n1 R.#o : 2023-02-21
+CRITICAL Service mode switched to safe Ir : 2024-12-11
+CRITICAL User user1 failed to authenticate from IP 107.191.12.63 tX" : 2025-01-28
+INFO Disk space is critically low on /dev/sda1 Gp : 2024-08-29
+notice Service mode switched to production ]Kok : 2024-03-11
+ERROR service crashed unexpectedly with code 359 M : 2025-04-18
+DEBUG Unable to resolve DNS for example.com  : 2024-03-28
+WARNING Server started successfully at port 8305 @G& : 2025-01-14
+ERROR Service mode switched to safe n : 2024-02-28
+WARNING service crashed unexpectedly with code 269  : 2024-08-27
+INFO Service mode switched to isolated ;A : 2024-12-25
+ERROR service crashed unexpectedly with code 333  : 2023-08-14
+CRITICAL User user1 failed to authenticate from IP 157.70.141.131 hKt : 2024-01-18
+WARNING Resource CPU not available ,; : 2024-09-14
+DEBUG API key expired for user user1 z~y : 2023-12-05
+CRITICAL User JaneDoe failed to authenticate from IP 231.22.125.221 &ib, : 2023-03-12
+fatal Resource GPU not available h : 2023-08-31
+DEBUG Server started successfully at port 8089 n}tG : 2024-03-15
+Alert service crashed unexpectedly with code 472 s,bFZ : 2024-10-24
+CRITICAL API key expired for user john_doe  : 2024-12-15
+fatal Resource Network not available HRV : 2025-05-18
+fatal service crashed unexpectedly with code 333  : 2023-11-26
+INFO Unable to resolve DNS for api.service.io D : 2023-10-19
+Alert Temporary failure in name resolution [L] : 2023-04-23
+INFO Configuration file not found: /home/user/.env  : 2023-03-09
+CRITICAL Resource CPU not available S]$ : 2024-09-18
+notice API key expired for user user1  : 2025-05-17
+fatal Disk space is critically low on /dev/sda1 }>.Wv : 2025-01-05
+DEBUG service crashed unexpectedly with code 187 U : 2025-06-03
+fatal Service mode switched to production '. : 2023-05-08
+INFO service crashed unexpectedly with code 291  : 2024-06-10
+CRITICAL API key expired for user apiUser  : 2024-02-05
+INFO Service mode switched to production C{w : 2025-07-09
+fatal Server started successfully at port 8228 L : 2024-02-29
+Alert Temporary failure in name resolution  : 2023-01-16
+INFO Service mode switched to isolated `' : 2023-12-18
+CRITICAL Service mode switched to safe E.t : 2023-02-20
+fatal User JaneDoe failed to authenticate from IP 210.23.108.227 x : 2024-05-15
+notice Temporary failure in name resolution o : 2024-09-17
+ERROR Temporary failure in name resolution ^ : 2024-10-08
+DEBUG Unable to resolve DNS for example.com O[;C: : 2024-03-31
+Alert Disk space is critically low on / a= : 2023-07-23
+Alert Configuration file not found: /var/log/syslog  : 2023-01-18
+WARNING Disk space is critically low on / <{m : 2025-05-24
+CRITICAL Resource CPU not available 'i : 2024-02-03
+CRITICAL Unable to resolve DNS for example.com  : 2023-06-05
+WARNING Server started successfully at port 8482 >p:p : 2024-05-22
+CRITICAL Service mode switched to safe q|KI' : 2024-10-06
+Alert Unable to resolve DNS for api.service.io MF : 2023-12-05
+ERROR Temporary failure in name resolution p/ : 2024-01-17
+CRITICAL Resource Network not available ]? : 2025-05-20
+ERROR Server started successfully at port 8591 exC+ : 2023-08-25
+INFO Service mode switched to isolated !Db; : 2023-12-28
+notice Resource GPU not available (D : 2024-11-10
+notice service crashed unexpectedly with code 224 .n : 2023-01-28
+Alert Service mode switched to production #Zl : 2025-07-03
+Alert Database connection timeout after 532ms  : 2024-06-20
+CRITICAL Database connection refused after 390ms $ : 2023-08-22
+notice Server started successfully at port 8881 $ : 2023-08-14
+CRITICAL Resource GPU not available TWmLe : 2023-02-22
+WARNING service crashed unexpectedly with code 335 FV)}} : 2023-11-10
+Alert Resource CPU not available  : 2024-12-18
+INFO User admin failed to authenticate from IP 87.218.85.134 hMN : 2023-04-23
+fatal Disk space is critically low on /mnt/data c : 2023-09-23
+fatal service crashed unexpectedly with code 385 M: : 2024-12-25
+ERROR Unable to resolve DNS for api.service.io . : 2024-10-08
+notice Database connection timeout after 45ms  : 2023-04-25
+fatal Disk space is critically low on /mnt/data S : 2024-02-24
+fatal Unable to resolve DNS for internal.local  : 2023-02-14
+DEBUG Server started successfully at port 8811 g : 2024-03-03
+INFO Configuration file not found: /var/log/syslog wf : 2023-11-18
+ERROR Service mode switched to production CEY^S : 2024-02-07
+INFO Resource RAM not available : : 2023-03-12
+ERROR Temporary failure in name resolution  : 2024-10-31
+fatal Configuration file not found: /home/user/.env  : 2024-05-27
+WARNING Service mode switched to production k : 2025-06-04
+fatal Server started successfully at port 8609 Pp : 2023-12-13
+fatal Database connection established after 632ms AOs : 2025-07-12
+Alert Service mode switched to production `ow_ : 2024-12-05
+ERROR API key expired for user user1 <`%b" : 2024-08-25
+notice Service mode switched to safe w : 2023-11-22
+notice Temporary failure in name resolution N-AJ : 2025-04-06
+Alert Temporary failure in name resolution - : 2023-12-18
+INFO User JaneDoe failed to authenticate from IP 9.117.30.181 l$A : 2023-06-27
+fatal User john_doe failed to authenticate from IP 120.138.41.213 KA : 2024-05-19
+ERROR Temporary failure in name resolution  : 2024-01-14
